@@ -1,0 +1,4 @@
+flair==0.7
+torch==1.7.1
+Flask==2.0.2
+python-json-logger==2.0.2
